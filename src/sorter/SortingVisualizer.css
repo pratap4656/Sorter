@@ -1,0 +1,31 @@
+.array-container {
+    position: absolute;
+    left: 100px;
+    right: 100px;
+}
+.array-bar {
+    width: 4px;
+    display: inline-block;
+    margin: 0px;
+    border: 1px white solid;
+}
+
+header {
+    margin: 0px;
+    padding-left: 100px;
+    padding-bottom: 30px;
+    background-color: #202330;
+}
+
+button {
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right: 100px;
+    height: 40px;
+    width: 80px;
+    background-color: #1abc9c;
+    border: #1abc9c solid 1px;
+    border-radius: 10%;
+    color: white;
+
+}
